@@ -1,9 +1,7 @@
-# Project-1
-***Replace all text with your own***
-# About my file
-...
+# Dungeons and Bitches
+*** Welcome to Dungeons and Bitches. This classic game will see if you worthly of the Queen Bitch...[write later] ***
 
-## Example Heading
+## How To Play
 
 	1.	Set Up the Environment: Create a grid or map for the dungeon. Each cell represents a room or location. Decide on the size and layout of the dungeon.
 	2.	Player Character: Allow the player to choose or create a character with certain attributes like strength, agility, etc.
@@ -12,3 +10,5 @@
 	5.	Obstacles and Enemies: Include obstacles like locked doors, traps, puzzles, and enemies that the player must overcome using their character’s abilities.
 	6.	Items and Treasures: Scatter items and treasures throughout the dungeon for the player to collect. These could include weapons, armor, potions, keys, and other useful items.
 	7.	Endings: Create multiple endings based on the player’s choices and actions throughout the game. Some endings could be more favorable than others, depending on how well the player navigates the dungeon.
+
+## Subheading

@@ -1,5 +1,5 @@
-# Dungeons and Bitches
-*** Welcome to Dungeons and Bitches. This classic game will see if you worthly of the Queen Bitch...[write later] ***
+# Dungeons
+*** Welcome to Dungeons. This classic game will see if you worthly...[write later] ***
 
 ## How To Play
 

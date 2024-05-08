@@ -8,7 +8,7 @@
   `Tyler`
   `Vladyslav`
 ## Background Research
-[text]
+
 'https://www.proquest.com/docview/3046792906/C5F06CDDAD844A27PQ/1?accountid=1167&sourcetype=Wire%20Feeds
 
 University of Iowa article
@@ -29,7 +29,3 @@ https://www.proquest.com/docview/2917606978/72901166AA1044F2PQ/4?accountid=1167&
 
 This one is very interesting. They are building a system that will track participants’ goals and pathways they are on in the medical field, and suggest jobs that people should take depending on what demand would be for each field with the lead times in cluded for training. It just started last year, but the findings will be reported after the first bunch of data.
 '
-
-
-
-[text]
